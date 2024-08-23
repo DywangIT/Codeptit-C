@@ -1,0 +1,1 @@
+{"name":"Local: SO_DEP","url":"d:\\LAP_TRINH\\CODEPTIT_C\\SO_DEP.cpp","tests":[{"id":1716101309280,"input":"4\n123456787654321\n8644281154664511824468\n8006000444400000000000044440006008\n82123400000000000000000000000432128","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\LAP_TRINH\\CODEPTIT_C\\SO_DEP.cpp","group":"local","local":true}
